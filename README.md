@@ -50,6 +50,4 @@ The site is deployed using GitHub Pages. To deploy updates:
 npm run deploy
 ```
 
-## Live Demo
 
-Visit the live site at: [https://ekta3104.github.io/conference-frontend](https://ekta3104.github.io/conference-frontend)
