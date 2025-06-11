@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/conference-frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/conference-frontend/static/js/main.baeaf6d7.js",
+    "main.js": "/conference-frontend/static/js/main.b4f03bde.js",
     "index.html": "/conference-frontend/index.html",
     "main.e6c13ad2.css.map": "/conference-frontend/static/css/main.e6c13ad2.css.map",
-    "main.baeaf6d7.js.map": "/conference-frontend/static/js/main.baeaf6d7.js.map"
+    "main.b4f03bde.js.map": "/conference-frontend/static/js/main.b4f03bde.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.baeaf6d7.js"
+    "static/js/main.b4f03bde.js"
   ]
 }
